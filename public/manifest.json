@@ -1,0 +1,51 @@
+{
+  "name": "macOS Desktop Simulator",
+  "short_name": "macOS Desktop",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#DCE9E9",
+  "theme_color": "#d1d1d1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://images.pexels.com/photos/18069/pexels-photo-18069.jpg?auto=compress&cs=tinysrgb&w=72&h=72&dpr=2",
+      "type": "image/jpeg",
+      "sizes": "72x72"
+    },
+    {
+      "src": "https://images.pexels.com/photos/18069/pexels-photo-18069.jpg?auto=compress&cs=tinysrgb&w=96&h=96&dpr=2",
+      "type": "image/jpeg",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://images.pexels.com/photos/18069/pexels-photo-18069.jpg?auto=compress&cs=tinysrgb&w=128&h=128&dpr=2",
+      "type": "image/jpeg",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https://images.pexels.com/photos/18069/pexels-photo-18069.jpg?auto=compress&cs=tinysrgb&w=144&h=144&dpr=2",
+      "type": "image/jpeg",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://images.pexels.com/photos/18069/pexels-photo-18069.jpg?auto=compress&cs=tinysrgb&w=152&h=152&dpr=2",
+      "type": "image/jpeg",
+      "sizes": "152x152"
+    },
+    {
+      "src": "https://images.pexels.com/photos/18069/pexels-photo-18069.jpg?auto=compress&cs=tinysrgb&w=192&h=192&dpr=2",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://images.pexels.com/photos/18069/pexels-photo-18069.jpg?auto=compress&cs=tinysrgb&w=384&h=384&dpr=2",
+      "type": "image/jpeg",
+      "sizes": "384x384"
+    },
+    {
+      "src": "https://images.pexels.com/photos/18069/pexels-photo-18069.jpg?auto=compress&cs=tinysrgb&w=512&h=512&dpr=2",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ]
+}
